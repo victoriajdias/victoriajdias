@@ -28,7 +28,7 @@ Meu principal foco está em criar soluções bem estruturadas, escaláveis e com
 * TypeScript
 * React
 * Next.js
-* Bootstrap
+* Tailwind
 
 **Backend**
 
