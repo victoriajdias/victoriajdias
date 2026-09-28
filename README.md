@@ -70,5 +70,5 @@ Meu principal foco está em criar soluções bem estruturadas, escaláveis e com
 
 ## Contato
 
-**LinkedIn:** linkedin.com/in/victoria-dias-507336293
+**LinkedIn:** https://linkedin.com/in/victoria-dias-507336293
 **Email:** victoriadiasj.dev@gmail.com
