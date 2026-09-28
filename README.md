@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-Sou Desenvolvedora Full Stack com foco na construção de aplicações web escaláveis, produtos SaaS e plataformas de marketplace e e-commerce.
+Sou Desenvolvedora Full Stack com foco na construção de aplicações web escaláveis e plataformas de marketplace e e-commerce.
 
 Tenho experiência no desenvolvimento de interfaces modernas e performáticas no frontend, assim como na construção de APIs robustas e arquitetura backend, atuando em todo o ciclo de desenvolvimento de aplicações.
 
@@ -45,6 +45,7 @@ Meu principal foco está em criar soluções bem estruturadas, escaláveis e com
 
 * Prisma
 * TypeORM
+* Drizzer
 
 **Ferramentas & Versionamento**
 
