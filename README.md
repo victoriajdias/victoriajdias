@@ -12,11 +12,11 @@
 
 ## Sobre mim
 
-Sou Desenvolvedora Full Stack com foco na construção de aplicações web escaláveis e plataformas de marketplace e e-commerce.
+Desenvolvedora Full Stack e estudante de Análise e Desenvolvimento de Sistemas, com experiência no desenvolvimento de aplicações web, atuando tanto no backend e no frontend.
 
-Tenho experiência no desenvolvimento de interfaces modernas e performáticas no frontend, assim como na construção de APIs robustas e arquitetura backend, atuando em todo o ciclo de desenvolvimento de aplicações.
+Já trabalhei na criação de interfaces, desenvolvimento de APIs, integrações entre sistemas e implementação de novas funcionalidades, utilizando principalmente JavaScript, TypeScript, React, Node.js e NestJS.
 
-Meu principal foco está em criar soluções bem estruturadas, escaláveis e com boa experiência de uso.
+Gosto de entender o que precisa ser desenvolvido e buscar soluções simples, organizadas e que realmente atendam à necessidade do projeto.
 
 ---
 
